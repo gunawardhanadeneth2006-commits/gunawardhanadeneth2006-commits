@@ -1,4 +1,4 @@
-# Hi there, I'm A.G. Deneth Mihiranga 👋
+# Hi there, I'm A.G.Deneth Mihiranga 👋
 
 ### AI/ML Engineer & Front-End Web Developer from Sri Lanka 🇱🇰
 
