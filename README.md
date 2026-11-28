@@ -7,3 +7,4 @@
 - 🌐 **Portfolio Website:** [A.G. Deneth Mihiranga Portfolio](https://sites.google.com/view/agdenethmihiranga/)
 - 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/a-g-deneth-mihiranga/)
 - 📫 **Email:** gunawardhanadeneth2006@gmail.com
+- 🌐 **Portfolio Website 02:[A.G. Deneth Mihiranga Portfolio](https://deneth-portfolio.vercel.app/ )
